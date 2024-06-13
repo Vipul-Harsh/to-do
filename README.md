@@ -12,5 +12,4 @@ Sorting: Use the "Sort Ascending/Descending" button to sort tasks.<br>
 Filtering: Use the "Show All/Show Completed" button to filter tasks.<br>
 LocalStorage: Refresh the page to ensure tasks persist across sessions.<br>
 
-# Demo-Link
-https://todo-app-abhisheksah.netlify.app/
+
